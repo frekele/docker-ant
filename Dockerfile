@@ -2,7 +2,7 @@ FROM frekele/java:latest
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-ENV ANT_VERSION=3.3.9
+ENV ANT_VERSION=1.9.7
 ENV ANT_HOME=/opt/ant
 
 # change to tmp folder
