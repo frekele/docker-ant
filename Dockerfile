@@ -1,28 +1,15 @@
-FROM frekele/java:latest
+# Apache Ant Docker Image - Extends frekele/java
 
-MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
+Repository: https://hub.docker.com/r/frekele/ant
 
-ENV ANT_VERSION=1.9.7
-ENV ANT_HOME=/opt/ant
+#### Apache Ant with Oracle JDK Branches:
 
-# change to tmp folder
-WORKDIR /tmp
 
-# Download and extract apache ant to opt folder
-RUN wget --no-check-certificate --no-cookies http://archive.apache.org/dist/ant/binaries/apache-ant-${ANT_VERSION}-bin.tar.gz \
-    && wget --no-check-certificate --no-cookies http://archive.apache.org/dist/ant/binaries/apache-ant-${ANT_VERSION}-bin.tar.gz.md5 \
-    && echo "$(cat apache-ant-${ANT_VERSION}-bin.tar.gz.md5) apache-ant-${ANT_VERSION}-bin.tar.gz" | md5sum -c \
-    && tar -zvxf apache-ant-${ANT_VERSION}-bin.tar.gz -C /opt/ \
-    && ln -s /opt/apache-ant-${ANT_VERSION} /opt/ant \
-    && rm -f apache-ant-${ANT_VERSION}-bin.tar.gz \
-    && rm -f apache-ant-${ANT_VERSION}-bin.tar.gz.md5
+# Dockerfile extends From:
+- https://github.com/frekele/docker-java
+- https://hub.docker.com/r/frekele/java
 
-# add executables to path
-RUN update-alternatives --install "/usr/bin/ant" "ant" "/opt/ant/bin/ant" 1 && \
-    update-alternatives --set "ant" "/opt/ant/bin/ant" 
 
-# Add the files
-ADD rootfs /
+## Relations:
+ - https://github.com/just-containers/s6-overlay
 
-# change to root folder
-WORKDIR /root
