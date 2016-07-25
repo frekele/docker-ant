@@ -1,4 +1,4 @@
-# Apache Ant Docker Image - Extends frekele/java
+# Apache Ant (s6-overlay) Docker Image
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/frekele/ant.svg)](https://hub.docker.com/r/frekele/ant/)
 [![Docker Stars](https://img.shields.io/docker/stars/frekele/ant.svg)](https://hub.docker.com/r/frekele/ant/)
