@@ -72,6 +72,7 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 
 
 [ANT LICENSE]: https://github.com/frekele/docker-ant/blob/dev/ANT_LICENSE
+[MIT LICENSE]: https://github.com/frekele/docker-ant/blob/dev/LICENSE
 [1.9.7-jdk8]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8/Dockerfile
 [1.9.7-jdk8u102]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u102/Dockerfile
 [1.9.7-jdk8u101]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u101/Dockerfile
