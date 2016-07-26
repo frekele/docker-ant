@@ -5,9 +5,12 @@
 [![GitHub issues](https://img.shields.io/github/issues/frekele/docker-ant.svg)](https://github.com/frekele/docker-ant/issues)
 [![GitHub forks](https://img.shields.io/github/forks/frekele/docker-ant.svg)](https://github.com/frekele/docker-ant/network)
 [![GitHub stars](https://img.shields.io/github/stars/frekele/docker-ant.svg)](https://github.com/frekele/docker-ant/stargazers)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://frekele.github.io/docker-ant/)
 
+[![Ant Image][AntImage]][AntWebsite]
 
-Repository: https://hub.docker.com/r/frekele/ant
+| [Website]  | [GitHub]  | [DockerHub]  |
+
 
 #### Apache Ant with Oracle JDK Branches:
 | Branch                      | From                     | Usage        | Tag Names                           |
@@ -70,8 +73,14 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-
+[AntImage]: https://raw.githubusercontent.com/frekele/docker-ant/dev/ant-logo.png
+[AntWebsite]: http://ant.apache.org/
+[Website]: https://frekele.github.io/docker-ant
+[GitHub]: https://github.com/frekele/docker-ant
+[DockerHub]: https://hub.docker.com/r/frekele/ant
 [ANT LICENSE]: https://github.com/frekele/docker-ant/blob/dev/ANT_LICENSE
+[MIT LICENSE]: https://github.com/frekele/docker-ant/blob/dev/LICENSE
+
 [1.9.7-jdk8]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8/Dockerfile
 [1.9.7-jdk8u102]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u102/Dockerfile
 [1.9.7-jdk8u101]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u101/Dockerfile
