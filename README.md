@@ -16,6 +16,8 @@
 | Branch                      | From                     | Usage        | Tag Names                           |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------|
 | [1.9.7-jdk8] - latest       | frekele/java:jdk8        | Production   | 1.9.7-jdk8, latest                  |
+| [1.9.7-jdk8u112]            | frekele/java:jdk8u112    | Production   | 1.9.7-jdk8u112                      |
+| [1.9.7-jdk8u111]            | frekele/java:jdk8u111    | Production   | 1.9.7-jdk8u111                      |
 | [1.9.7-jdk8u102]            | frekele/java:jdk8u102    | Production   | 1.9.7-jdk8u102                      |
 | [1.9.7-jdk8u101]            | frekele/java:jdk8u101    | Production   | 1.9.7-jdk8u101                      |
 | [1.9.7-jdk8u92]             | frekele/java:jdk8u92     | Production   | 1.9.7-jdk8u92                       |
@@ -82,6 +84,8 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [MIT LICENSE]: https://github.com/frekele/docker-ant/blob/dev/LICENSE
 
 [1.9.7-jdk8]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8/Dockerfile
+[1.9.7-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u112/Dockerfile
+[1.9.7-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u111/Dockerfile
 [1.9.7-jdk8u102]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u102/Dockerfile
 [1.9.7-jdk8u101]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u101/Dockerfile
 [1.9.7-jdk8u92]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u92/Dockerfile
