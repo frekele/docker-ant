@@ -27,7 +27,7 @@
 #### Apache Ant 1.9.8 with Oracle JDK Branches:
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
-| [1.9.8-jdk8] - latest       | frekele/java:jdk8        | Production   | 1.9.8-jdk8, 1.9-jdk8, 1.9            |
+| [1.9.8-jdk8]                | frekele/java:jdk8        | Production   | 1.9.8-jdk8, 1.9-jdk8, 1.9            |
 | [1.9.8-jdk8u112]            | frekele/java:jdk8u112    | Production   | 1.9.8-jdk8u112                       |
 | [1.9.8-jdk8u111]            | frekele/java:jdk8u111    | Production   | 1.9.8-jdk8u111                       |
 | [1.9.8-jdk8u102]            | frekele/java:jdk8u102    | Production   | 1.9.8-jdk8u102                       |
@@ -42,7 +42,7 @@
 #### Apache Ant 1.9.7 with Oracle JDK Branches:
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
-| [1.9.7-jdk8] - latest       | frekele/java:jdk8        | Production   | 1.9.7-jdk8                           |
+| [1.9.7-jdk8]                | frekele/java:jdk8        | Production   | 1.9.7-jdk8                           |
 | [1.9.7-jdk8u112]            | frekele/java:jdk8u112    | Production   | 1.9.7-jdk8u112                       |
 | [1.9.7-jdk8u111]            | frekele/java:jdk8u111    | Production   | 1.9.7-jdk8u111                       |
 | [1.9.7-jdk8u102]            | frekele/java:jdk8u102    | Production   | 1.9.7-jdk8u102                       |
