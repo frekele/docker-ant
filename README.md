@@ -15,6 +15,7 @@
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.10.1-jdk8] - latest      | frekele/java:jdk8        | Production   | 1.10.1-jdk8, 1.10-jdk8, 1.10, latest |
+| [1.10.1-jdk8u131]           | frekele/java:jdk8u131    | Production   | 1.10.1-jdk8u131                      |
 | [1.10.1-jdk8u121]           | frekele/java:jdk8u121    | Production   | 1.10.1-jdk8u121                      |
 | [1.10.1-jdk8u112]           | frekele/java:jdk8u112    | Production   | 1.10.1-jdk8u112                      |
 | [1.10.1-jdk8u111]           | frekele/java:jdk8u111    | Production   | 1.10.1-jdk8u111                      |
@@ -28,6 +29,7 @@
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.10.0-jdk8]               | frekele/java:jdk8        | Production   | 1.10.0-jdk8                          |
+| [1.10.0-jdk8u131]           | frekele/java:jdk8u131    | Production   | 1.10.0-jdk8u131                      |
 | [1.10.0-jdk8u121]           | frekele/java:jdk8u121    | Production   | 1.10.0-jdk8u121                      |
 | [1.10.0-jdk8u112]           | frekele/java:jdk8u112    | Production   | 1.10.0-jdk8u112                      |
 | [1.10.0-jdk8u111]           | frekele/java:jdk8u111    | Production   | 1.10.0-jdk8u111                      |
@@ -40,6 +42,7 @@
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.9.9-jdk8]                | frekele/java:jdk8        | Production   | 1.9.9-jdk8, 1.9-jdk8, 1.9            |
+| [1.9.9-jdk8u131]            | frekele/java:jdk8u131    | Production   | 1.9.9-jdk8u131                       |
 | [1.9.9-jdk8u121]            | frekele/java:jdk8u121    | Production   | 1.9.9-jdk8u121                       |
 | [1.9.9-jdk8u112]            | frekele/java:jdk8u112    | Production   | 1.9.9-jdk8u112                       |
 | [1.9.9-jdk8u111]            | frekele/java:jdk8u111    | Production   | 1.9.9-jdk8u111                       |
@@ -55,6 +58,7 @@
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.9.8-jdk8]                | frekele/java:jdk8        | Production   | 1.9.8-jdk8                           |
+| [1.9.8-jdk8u131]            | frekele/java:jdk8u131    | Production   | 1.9.8-jdk8u131                       |
 | [1.9.8-jdk8u121]            | frekele/java:jdk8u121    | Production   | 1.9.8-jdk8u121                       |
 | [1.9.8-jdk8u112]            | frekele/java:jdk8u112    | Production   | 1.9.8-jdk8u112                       |
 | [1.9.8-jdk8u111]            | frekele/java:jdk8u111    | Production   | 1.9.8-jdk8u111                       |
@@ -70,6 +74,7 @@
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.9.7-jdk8]                | frekele/java:jdk8        | Production   | 1.9.7-jdk8                           |
+| [1.9.7-jdk8u131]            | frekele/java:jdk8u131    | Production   | 1.9.7-jdk8u131                       |
 | [1.9.7-jdk8u121]            | frekele/java:jdk8u121    | Production   | 1.9.7-jdk8u121                       |
 | [1.9.7-jdk8u112]            | frekele/java:jdk8u112    | Production   | 1.9.7-jdk8u112                       |
 | [1.9.7-jdk8u111]            | frekele/java:jdk8u111    | Production   | 1.9.7-jdk8u111                       |
@@ -134,6 +139,7 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [MIT LICENSE]: https://github.com/frekele/docker-ant/blob/dev/LICENSE
 
 [1.10.1-jdk8]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8/Dockerfile
+[1.10.1-jdk8u131]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8u131/Dockerfile
 [1.10.1-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8u121/Dockerfile
 [1.10.1-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8u112/Dockerfile
 [1.10.1-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8u111/Dockerfile
@@ -144,6 +150,7 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [dev]: https://github.com/frekele/docker-ant/blob/dev/Dockerfile
 
 [1.10.0-jdk8]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8/Dockerfile
+[1.10.0-jdk8u131]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8u131/Dockerfile
 [1.10.0-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8u121/Dockerfile
 [1.10.0-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8u112/Dockerfile
 [1.10.0-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8u111/Dockerfile
@@ -153,6 +160,7 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [1.10.0-jdk8u91]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8u91/Dockerfile
 
 [1.9.9-jdk8]: https://github.com/frekele/docker-ant/blob/1.9.9-jdk8/Dockerfile
+[1.9.9-jdk8u131]: https://github.com/frekele/docker-ant/blob/1.9.9-jdk8u131/Dockerfile
 [1.9.9-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.9.9-jdk8u121/Dockerfile
 [1.9.9-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.9.9-jdk8u112/Dockerfile
 [1.9.9-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.9.9-jdk8u111/Dockerfile
@@ -165,6 +173,7 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [1.9.9-jdk7u79]: https://github.com/frekele/docker-ant/blob/1.9.9-jdk7u79/Dockerfile
 
 [1.9.8-jdk8]: https://github.com/frekele/docker-ant/blob/1.9.8-jdk8/Dockerfile
+[1.9.8-jdk8u131]: https://github.com/frekele/docker-ant/blob/1.9.8-jdk8u131/Dockerfile
 [1.9.8-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.9.8-jdk8u121/Dockerfile
 [1.9.8-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.9.8-jdk8u112/Dockerfile
 [1.9.8-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.9.8-jdk8u111/Dockerfile
@@ -177,6 +186,7 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [1.9.8-jdk7u79]: https://github.com/frekele/docker-ant/blob/1.9.8-jdk7u79/Dockerfile
 
 [1.9.7-jdk8]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8/Dockerfile
+[1.9.7-jdk8u131]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u131/Dockerfile
 [1.9.7-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u121/Dockerfile
 [1.9.7-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u112/Dockerfile
 [1.9.7-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.9.7-jdk8u111/Dockerfile
