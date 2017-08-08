@@ -29,7 +29,6 @@
 | [1.10.0-jdk8]               | frekele/java:jdk8        | Production   | 1.10.0-jdk8                          |
 | [1.10.0-jdk8u144]           | frekele/java:jdk8u144    | Production   | 1.10.0-jdk8u144                      |
 | [1.10.0-jdk8u141]           | frekele/java:jdk8u141    | Production   | 1.10.0-jdk8u141                      |
-| [1.10.0-jdk8u144]           | frekele/java:jdk8u141    | Production   | 1.10.0-jdk8u144                      |
 | [1.10.0-jdk8u131]           | frekele/java:jdk8u131    | Production   | 1.10.0-jdk8u131                      |
 | [1.10.0-jdk8u121]           | frekele/java:jdk8u121    | Production   | 1.10.0-jdk8u121                      |
 | [1.10.0-jdk8u112]           | frekele/java:jdk8u112    | Production   | 1.10.0-jdk8u112                      |
