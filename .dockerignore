@@ -1,5 +1,7 @@
 .idea
 .gitignore
 LICENSE
+CNAME
+_config.yml
 README.md
 docker-ant.iml
