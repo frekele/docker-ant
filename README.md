@@ -11,7 +11,9 @@
 
 | [Website]  | [GitHub]  | [DockerHub]  |
 
+
 #### Apache Ant 1.10.1 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.10.1-jdk8] - latest      | frekele/java:jdk8        | Production   | 1.10.1-jdk8, 1.10-jdk8, 1.10, latest |
@@ -21,21 +23,24 @@
 | [1.10.1-jdk8u121]           | frekele/java:jdk8u121    | Production   | 1.10.1-jdk8u121                      |
 | [1.10.1-jdk8u112]           | frekele/java:jdk8u112    | Production   | 1.10.1-jdk8u112                      |
 | [1.10.1-jdk8u111]           | frekele/java:jdk8u111    | Production   | 1.10.1-jdk8u111                      |
-| [dev]                       | frekele/java:jdk8        | Development  | dev                                  |
+| [master]                    | frekele/java:jdk8        | Development  | dev                                  |
+
 
 #### Apache Ant 1.10.0 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.10.0-jdk8]               | frekele/java:jdk8        | Production   | 1.10.0-jdk8                          |
 | [1.10.0-jdk8u144]           | frekele/java:jdk8u144    | Production   | 1.10.0-jdk8u144                      |
 | [1.10.0-jdk8u141]           | frekele/java:jdk8u141    | Production   | 1.10.0-jdk8u141                      |
-| [1.10.0-jdk8u144]           | frekele/java:jdk8u141    | Production   | 1.10.0-jdk8u144                      |
 | [1.10.0-jdk8u131]           | frekele/java:jdk8u131    | Production   | 1.10.0-jdk8u131                      |
 | [1.10.0-jdk8u121]           | frekele/java:jdk8u121    | Production   | 1.10.0-jdk8u121                      |
 | [1.10.0-jdk8u112]           | frekele/java:jdk8u112    | Production   | 1.10.0-jdk8u112                      |
 | [1.10.0-jdk8u111]           | frekele/java:jdk8u111    | Production   | 1.10.0-jdk8u111                      |
 
+
 #### Apache Ant 1.9.9 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.9.9-jdk8]                | frekele/java:jdk8        | Production   | 1.9.9-jdk8, 1.9-jdk8, 1.9            |
@@ -49,7 +54,9 @@
 | [1.9.9-jdk7u80]             | frekele/java:jdk7u80     | Production   | 1.9.9-jdk7u80                        |
 | [1.9.9-jdk7u79]             | frekele/java:jdk7u79     | Production   | 1.9.9-jdk7u79                        |
 
+
 #### Apache Ant 1.9.8 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.9.8-jdk8]                | frekele/java:jdk8        | Production   | 1.9.8-jdk8                           |
@@ -63,7 +70,9 @@
 | [1.9.8-jdk7u80]             | frekele/java:jdk7u80     | Production   | 1.9.8-jdk7u80                        |
 | [1.9.8-jdk7u79]             | frekele/java:jdk7u79     | Production   | 1.9.8-jdk7u79                        |
 
+
 #### Apache Ant 1.9.7 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
 | [1.9.7-jdk8]                | frekele/java:jdk8        | Production   | 1.9.7-jdk8                           |
@@ -76,6 +85,7 @@
 | [1.9.7-jdk7]                | frekele/java:jdk7        | Production   | 1.9.7-jdk7                           |
 | [1.9.7-jdk7u80]             | frekele/java:jdk7u80     | Production   | 1.9.7-jdk7u80                        |
 | [1.9.7-jdk7u79]             | frekele/java:jdk7u79     | Production   | 1.9.7-jdk7u79                        |
+
 
 
 ***The Apache Ant team currently maintains two lines of development. The 1.9.x releases require Java5 at runtime and 1.10.x requires Java8 at runtime.***
@@ -121,13 +131,13 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-[AntImage]: https://raw.githubusercontent.com/frekele/docker-ant/dev/ant-logo.png
+[AntImage]: https://raw.githubusercontent.com/frekele/docker-ant/master/ant-logo.png
 [AntWebsite]: http://ant.apache.org/
 [Website]: https://frekele.github.io/docker-ant
 [GitHub]: https://github.com/frekele/docker-ant
 [DockerHub]: https://hub.docker.com/r/frekele/ant
-[ANT LICENSE]: https://github.com/frekele/docker-ant/blob/dev/ANT_LICENSE
-[MIT LICENSE]: https://github.com/frekele/docker-ant/blob/dev/LICENSE
+[ANT LICENSE]: https://github.com/frekele/docker-ant/blob/master/ANT_LICENSE
+[MIT LICENSE]: https://github.com/frekele/docker-ant/blob/master/LICENSE
 
 [1.10.1-jdk8]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8/Dockerfile
 [1.10.1-jdk8u144]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8u144/Dockerfile
@@ -136,7 +146,7 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [1.10.1-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8u121/Dockerfile
 [1.10.1-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8u112/Dockerfile
 [1.10.1-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8u111/Dockerfile
-[dev]: https://github.com/frekele/docker-ant/blob/dev/Dockerfile
+[master]: https://github.com/frekele/docker-ant/blob/master/Dockerfile
 
 [1.10.0-jdk8]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8/Dockerfile
 [1.10.0-jdk8u144]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8u144/Dockerfile
