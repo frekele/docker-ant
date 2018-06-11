@@ -12,11 +12,31 @@
 | [Website]  | [GitHub]  | [DockerHub]  |
 
 
+#### Apache Ant 1.10.3 with Oracle JDK Branches:
+
+| Branch                      | From                     | Usage        | Tag Names                            |
+| --------------------------- | ------------------------ | ------------ | ------------------------------------ |
+| [1.10.3-jdk8] - latest      | frekele/java:jdk8        | Production   | 1.10.3-jdk8, 1.10-jdk8, 1.10, latest |
+| [1.10.3-jdk8u172]           | frekele/java:jdk8u172    | Production   | 1.10.3-jdk8u172                      |
+| [1.10.3-jdk8u171]           | frekele/java:jdk8u171    | Production   | 1.10.3-jdk8u171                      |
+| [1.10.3-jdk8u162]           | frekele/java:jdk8u162    | Production   | 1.10.3-jdk8u162                      |
+| [1.10.3-jdk8u161]           | frekele/java:jdk8u161    | Production   | 1.10.3-jdk8u161                      |
+| [1.10.3-jdk8u152]           | frekele/java:jdk8u152    | Production   | 1.10.3-jdk8u152                      |
+| [1.10.3-jdk8u151]           | frekele/java:jdk8u151    | Production   | 1.10.3-jdk8u151                      |
+| [1.10.3-jdk8u144]           | frekele/java:jdk8u144    | Production   | 1.10.3-jdk8u144                      |
+| [1.10.3-jdk8u141]           | frekele/java:jdk8u141    | Production   | 1.10.3-jdk8u141                      |
+| [1.10.3-jdk8u131]           | frekele/java:jdk8u131    | Production   | 1.10.3-jdk8u131                      |
+| [1.10.3-jdk8u121]           | frekele/java:jdk8u121    | Production   | 1.10.3-jdk8u121                      |
+| [1.10.3-jdk8u112]           | frekele/java:jdk8u112    | Production   | 1.10.3-jdk8u112                      |
+| [1.10.3-jdk8u111]           | frekele/java:jdk8u111    | Production   | 1.10.3-jdk8u111                      |
+| [master]                    | frekele/java:jdk8        | Development  | dev                                  |
+
+
 #### Apache Ant 1.10.2 with Oracle JDK Branches:
 
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
-| [1.10.2-jdk8] - latest      | frekele/java:jdk8        | Production   | 1.10.2-jdk8, 1.10-jdk8, 1.10, latest |
+| [1.10.2-jdk8]               | frekele/java:jdk8        | Production   | 1.10.2-jdk8                          |
 | [1.10.2-jdk8u172]           | frekele/java:jdk8u172    | Production   | 1.10.2-jdk8u172                      |
 | [1.10.2-jdk8u171]           | frekele/java:jdk8u171    | Production   | 1.10.2-jdk8u171                      |
 | [1.10.2-jdk8u162]           | frekele/java:jdk8u162    | Production   | 1.10.2-jdk8u162                      |
@@ -29,7 +49,6 @@
 | [1.10.2-jdk8u121]           | frekele/java:jdk8u121    | Production   | 1.10.2-jdk8u121                      |
 | [1.10.2-jdk8u112]           | frekele/java:jdk8u112    | Production   | 1.10.2-jdk8u112                      |
 | [1.10.2-jdk8u111]           | frekele/java:jdk8u111    | Production   | 1.10.2-jdk8u111                      |
-| [master]                    | frekele/java:jdk8        | Development  | dev                                  |
 
 
 #### Apache Ant 1.10.1 with Oracle JDK Branches:
@@ -70,11 +89,33 @@
 | [1.10.0-jdk8u111]           | frekele/java:jdk8u111    | Production   | 1.10.0-jdk8u111                      |
 
 
+#### Apache Ant 1.9.11 with Oracle JDK Branches:
+
+| Branch                      | From                     | Usage        | Tag Names                            |
+| --------------------------- | ------------------------ | ------------ | ------------------------------------ |
+| [1.9.11-jdk8]               | frekele/java:jdk8        | Production   | 1.9.11-jdk8, 1.9-jdk8, 1.9           |
+| [1.9.11-jdk8u172]           | frekele/java:jdk8u172    | Production   | 1.9.11-jdk8u172                      |
+| [1.9.11-jdk8u171]           | frekele/java:jdk8u171    | Production   | 1.9.11-jdk8u171                      |
+| [1.9.11-jdk8u162]           | frekele/java:jdk8u162    | Production   | 1.9.11-jdk8u162                      |
+| [1.9.11-jdk8u161]           | frekele/java:jdk8u161    | Production   | 1.9.11-jdk8u161                      |
+| [1.9.11-jdk8u152]           | frekele/java:jdk8u152    | Production   | 1.9.11-jdk8u152                      |
+| [1.9.11-jdk8u151]           | frekele/java:jdk8u151    | Production   | 1.9.11-jdk8u151                      |
+| [1.9.11-jdk8u144]           | frekele/java:jdk8u144    | Production   | 1.9.11-jdk8u144                      |
+| [1.9.11-jdk8u141]           | frekele/java:jdk8u141    | Production   | 1.9.11-jdk8u141                      |
+| [1.9.11-jdk8u131]           | frekele/java:jdk8u131    | Production   | 1.9.11-jdk8u131                      |
+| [1.9.11-jdk8u121]           | frekele/java:jdk8u121    | Production   | 1.9.11-jdk8u121                      |
+| [1.9.11-jdk8u112]           | frekele/java:jdk8u112    | Production   | 1.9.11-jdk8u112                      |
+| [1.9.11-jdk8u111]           | frekele/java:jdk8u111    | Production   | 1.9.11-jdk8u111                      |
+| [1.9.11-jdk7]               | frekele/java:jdk7        | Production   | 1.9.11-jdk7, 1.9-jdk7                |
+| [1.9.11-jdk7u80]            | frekele/java:jdk7u80     | Production   | 1.9.11-jdk7u80                       |
+| [1.9.11-jdk7u79]            | frekele/java:jdk7u79     | Production   | 1.9.11-jdk7u79                       |
+
+
 #### Apache Ant 1.9.10 with Oracle JDK Branches:
 
 | Branch                      | From                     | Usage        | Tag Names                            |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------ |
-| [1.9.10-jdk8]               | frekele/java:jdk8        | Production   | 1.9.10-jdk8, 1.9-jdk8, 1.9           |
+| [1.9.10-jdk8]               | frekele/java:jdk8        | Production   | 1.9.10-jdk8                          |
 | [1.9.10-jdk8u172]           | frekele/java:jdk8u172    | Production   | 1.9.10-jdk8u172                      |
 | [1.9.10-jdk8u171]           | frekele/java:jdk8u171    | Production   | 1.9.10-jdk8u171                      |
 | [1.9.10-jdk8u162]           | frekele/java:jdk8u162    | Production   | 1.9.10-jdk8u162                      |
@@ -87,7 +128,7 @@
 | [1.9.10-jdk8u121]           | frekele/java:jdk8u121    | Production   | 1.9.10-jdk8u121                      |
 | [1.9.10-jdk8u112]           | frekele/java:jdk8u112    | Production   | 1.9.10-jdk8u112                      |
 | [1.9.10-jdk8u111]           | frekele/java:jdk8u111    | Production   | 1.9.10-jdk8u111                      |
-| [1.9.10-jdk7]               | frekele/java:jdk7        | Production   | 1.9.10-jdk7, 1.9-jdk7                |
+| [1.9.10-jdk7]               | frekele/java:jdk7        | Production   | 1.9.10-jdk7                          |
 | [1.9.10-jdk7u80]            | frekele/java:jdk7u80     | Production   | 1.9.10-jdk7u80                       |
 | [1.9.10-jdk7u79]            | frekele/java:jdk7u79     | Production   | 1.9.10-jdk7u79                       |
 
@@ -211,6 +252,21 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [MIT LICENSE]: https://github.com/frekele/docker-ant/blob/master/LICENSE
 
 
+[1.10.3-jdk8]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8/Dockerfile
+[1.10.3-jdk8u172]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u172/Dockerfile
+[1.10.3-jdk8u171]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u171/Dockerfile
+[1.10.3-jdk8u162]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u162/Dockerfile
+[1.10.3-jdk8u161]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u161/Dockerfile
+[1.10.3-jdk8u152]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u152/Dockerfile
+[1.10.3-jdk8u151]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u151/Dockerfile
+[1.10.3-jdk8u144]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u144/Dockerfile
+[1.10.3-jdk8u141]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u141/Dockerfile
+[1.10.3-jdk8u131]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u131/Dockerfile
+[1.10.3-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u121/Dockerfile
+[1.10.3-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u112/Dockerfile
+[1.10.3-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.10.3-jdk8u111/Dockerfile
+[master]: https://github.com/frekele/docker-ant/blob/master/Dockerfile
+
 [1.10.2-jdk8]: https://github.com/frekele/docker-ant/blob/1.10.2-jdk8/Dockerfile
 [1.10.2-jdk8u172]: https://github.com/frekele/docker-ant/blob/1.10.2-jdk8u172/Dockerfile
 [1.10.2-jdk8u171]: https://github.com/frekele/docker-ant/blob/1.10.2-jdk8u171/Dockerfile
@@ -224,7 +280,6 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [1.10.2-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.10.2-jdk8u121/Dockerfile
 [1.10.2-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.10.2-jdk8u112/Dockerfile
 [1.10.2-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.10.2-jdk8u111/Dockerfile
-[master]: https://github.com/frekele/docker-ant/blob/master/Dockerfile
 
 [1.10.1-jdk8]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8/Dockerfile
 [1.10.1-jdk8u172]: https://github.com/frekele/docker-ant/blob/1.10.1-jdk8u172/Dockerfile
@@ -253,6 +308,23 @@ frekele/docker-ant is **licensed** under the **[MIT License]**. The terms of the
 [1.10.0-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8u121/Dockerfile
 [1.10.0-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8u112/Dockerfile
 [1.10.0-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.10.0-jdk8u111/Dockerfile
+
+[1.9.11-jdk8]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8/Dockerfile
+[1.9.11-jdk8u172]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u172/Dockerfile
+[1.9.11-jdk8u171]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u171/Dockerfile
+[1.9.11-jdk8u162]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u162/Dockerfile
+[1.9.11-jdk8u161]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u161/Dockerfile
+[1.9.11-jdk8u152]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u152/Dockerfile
+[1.9.11-jdk8u151]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u151/Dockerfile
+[1.9.11-jdk8u144]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u144/Dockerfile
+[1.9.11-jdk8u141]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u141/Dockerfile
+[1.9.11-jdk8u131]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u131/Dockerfile
+[1.9.11-jdk8u121]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u121/Dockerfile
+[1.9.11-jdk8u112]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u112/Dockerfile
+[1.9.11-jdk8u111]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk8u111/Dockerfile
+[1.9.11-jdk7]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk7/Dockerfile
+[1.9.11-jdk7u80]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk7u80/Dockerfile
+[1.9.11-jdk7u79]: https://github.com/frekele/docker-ant/blob/1.9.11-jdk7u79/Dockerfile
 
 [1.9.10-jdk8]: https://github.com/frekele/docker-ant/blob/1.9.10-jdk8/Dockerfile
 [1.9.10-jdk8u172]: https://github.com/frekele/docker-ant/blob/1.9.10-jdk8u172/Dockerfile
