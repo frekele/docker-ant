@@ -1,8 +1,8 @@
-FROM frekele/java:jdk8
+FROM frekele/java:jdk8u171
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-ENV ANT_VERSION=1.10.2
+ENV ANT_VERSION=1.9.10
 ENV ANT_HOME=/opt/ant
 
 # change to tmp folder
