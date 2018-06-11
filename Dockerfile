@@ -1,4 +1,4 @@
-FROM frekele/java:jdk8u144
+FROM frekele/java:jdk8
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
